@@ -11,7 +11,11 @@ The store owner wants to create an annual sales report for 2022. So that, He can
 7 Which channel is contributing to maximum sales?  
 8 Highest selling category?   
 
-fdgsfgdf  
+DATA CLEANING  
+Used find and replace function to replace M with Men and W as Women  
+Used find and replace to convert quantity mentioned in text to numeric form  
+
+DATA PROCESSING  
+Grouped age into groups using IF condition [=IF(E2>=50, "Senior", IF(E2>=30, "Adult", "Teenager"))] to analyze data in a better way.  
 
 
-fdgdsfg
