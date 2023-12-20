@@ -10,3 +10,6 @@ The store owner wants to create an annual sales report for 2022. So that, He can
 6 Relation between age and gender based on number of orders.  
 7 Which channel is contributing to maximum sales?  
 8 Highest selling category?   
+
+fdgsfgdf
+fdgdsfg
