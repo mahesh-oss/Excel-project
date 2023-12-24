@@ -21,7 +21,19 @@ To extract the month in text form from the date column use formula [ =TEXT(G2, "
 
 DATA ANALYSIS  
 Created pivot table and chart to analyze Order Vs Sales.  
-Used formula [0.00, "M"] to convert format into a readable form.  
+Used formula [0.00, "M"] to convert the format into a readable form.  
+Used pivot tables and charts to generate different insights.  
+
+Insights
+1 During March both orders and sales are high.  
+2 Women contribute more (64%) in sales than men(36%).  
+3 Most of the items were delivered.  
+4 Top five states are Maharashtra, Karnataka, UP, Telangana, and Tamil Nadu.  
+5 Most of the orders are placed by women of the adult category.  
+6 Orders from Amazon contribute to the highest(35%).  
+
+
+
 
 
 
