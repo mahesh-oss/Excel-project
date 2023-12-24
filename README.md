@@ -19,8 +19,10 @@ DATA PROCESSING
 Grouped age into groups using IF condition [=IF(E2>=50, "Senior", IF(E2>=30, "Adult", "Teenager"))] to analyze data in a better way.  
 To extract the month in text form from the date column use formula [ =TEXT(G2, "mmm")]  
 
-DATA ANALYSIS 
-gdfg
+DATA ANALYSIS  
+Created pivot table and chart to analyze Order Vs Sales.  
+Used formula [0.00, "M"] to convert format into a readable form.  
+
 
 
 
